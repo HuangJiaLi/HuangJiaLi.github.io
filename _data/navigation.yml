@@ -10,9 +10,9 @@
   excerpt: "在此展示学生作品集，好的丶可改进的及有趣的"
   image: live2.gif
 
-- title: i18nl10n
-  url: /i18nl10n/
-  excerpt: "含＂一带一路＂倡议"
+- title: 学习笔记
+  url: /posts/
+  excerpt: "学习笔记"
   image: live3.gif
 
 - title: SDG
