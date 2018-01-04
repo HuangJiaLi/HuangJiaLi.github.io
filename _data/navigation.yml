@@ -14,3 +14,8 @@
   url: /posts/
   excerpt: "学习笔记"
   image: live3.gif
+  
+  - title: 网页设计笔记
+  url: /posts/rwd
+  excerpt: "学习笔记"
+  image: live3.gif
