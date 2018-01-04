@@ -10,8 +10,12 @@
   excerpt: "信息可视化设计的作品"
   image: XinXiKeShiHuaZuoPinJi.gif
 
-- title: 学习笔记
-  url: /posts/
-  excerpt: "学习笔记"
-  image: live3.gif
+- title: 网页设计笔记
+  url: /posts/rwd/
+  excerpt: "网页设计笔记"
+  image: WangYeSheJiBiJi.gif
   
+- title: 信息可视化笔记
+  url: /posts/infovis/
+  excerpt: "信息可视化笔记"
+  image: XinXiKeSheHuaBiJi.gif
