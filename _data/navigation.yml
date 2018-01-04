@@ -3,19 +3,15 @@
 - title: 网页设计作品集
   url: /portfolio/
   excerpt: "网页设计的作品"
-  image: live1.gif
+  image: WangYeSheJiZuoPinJi.gif
 
 - title: 信息可视化设计作品集
   url: /infovis/
   excerpt: "信息可视化设计的作品"
-  image: live2.gif
+  image: XinXiKeShiHuaZuoPinJi.gif
 
 - title: 学习笔记
   url: /posts/
   excerpt: "学习笔记"
   image: live3.gif
   
-  - title: 网页设计笔记
-  url: /posts/rwd/
-  excerpt: "学习笔记"
-  image: live3.gif
