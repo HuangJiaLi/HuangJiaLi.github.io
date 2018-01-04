@@ -3,10 +3,10 @@ layout: archive
 title: "信息可视化笔记"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "信息可视化笔记"
+excerpt: "记录"
 tags: []
 image: 
-  feature: XInXiKeShiHua.gif
+  feature: XInXiKeShiHuaBiJi.gif
   teaser:
 ---
 
