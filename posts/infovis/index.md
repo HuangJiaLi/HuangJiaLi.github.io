@@ -6,7 +6,7 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: XinXiKeShiHuaBiJi.gif
+  feature: 
   teaser:
 ---
 
