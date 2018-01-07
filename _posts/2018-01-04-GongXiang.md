@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "如何把图表共享到Tableau Public上"
-date:   2017-01-03 13:15:50 +0800
+date:   2018-01-03 13:15:50 +0800
 categories: posts infovisnotes
 image:
   teaser: Tableau.jpg
