@@ -9,7 +9,8 @@ image:
   feature: 
   teaser:
 ---
-
+在此展示在此展示——关于信息可视化作品
+![image](https://huangjiali.github.io/images/ZongTu.png)
 
 <div class="tiles">
 {% for post in site.categories.visualization %}
