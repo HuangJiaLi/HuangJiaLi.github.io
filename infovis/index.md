@@ -10,7 +10,8 @@ image:
   teaser:
 ---
 在此展示在此展示——关于信息可视化作品
-![image](https://huangjiali.github.io/images/ZongTu.png)
+<a href="https://public.tableau.com/views/last1/1_1?:embed=y&:display_count=yes&publish=yes" target="_blank">![ZongTu.png](https://huangjiali.github.io/images/ZongTu.png)</a>
+
 
 <div class="tiles">
 {% for post in site.categories.visualization %}
